@@ -2,8 +2,8 @@
 
 #################################
 # mailman.sh - Mail Setup Script
-# Author: Your Name
-# Date: YYYY-MM-DD
+# Author: Gregory L. Magnusson
+# Date: 2025:12:26
 #################################
 
 # Function to print messages in color
